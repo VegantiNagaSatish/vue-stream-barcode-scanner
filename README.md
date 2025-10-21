@@ -252,6 +252,6 @@ If this project helped you, please consider giving it a ⭐️!
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Satish Veganti
 
 
