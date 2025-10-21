@@ -1,0 +1,48 @@
+{
+  "name": "vue-stream-barcode-scanner",
+  "version": "1.0.0",
+  "description": "A high-performance Vue 3 barcode scanner component with real-time camera streaming, torch control, and beautiful UI",
+  "main": "dist/StreamBarcodeScanner.js",
+  "module": "src/StreamBarcodeScanner.vue",
+  "type": "module",
+  "keywords": [
+    "vue",
+    "vue3",
+    "barcode",
+    "scanner",
+    "camera",
+    "zxing",
+    "qr-code",
+    "ean",
+    "upc",
+    "stream",
+    "real-time"
+  ],
+  "author": "VegantiNagaSatish",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VegantiNagaSatish/vue-stream-barcode-scanner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VegantiNagaSatish/vue-stream-barcode-scanner/issues"
+  },
+  "homepage": "https://github.com/VegantiNagaSatish/vue-stream-barcode-scanner#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  },
+  "dependencies": {
+    "@zxing/library": "^0.21.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-basic-ssl": "^1.1.0",
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0",
+    "vue": "^3.4.0"
+  }
+}

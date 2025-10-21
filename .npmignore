@@ -1,0 +1,32 @@
+# Development files
+src/App.vue
+src/main.js
+src/style.css
+index.html
+vite.config.js
+
+# Documentation (keep in repo but not in npm package)
+EXAMPLES.md
+CONTRIBUTING.md
+PUBLISH_GUIDE.md
+screenshots/
+
+# Build files
+node_modules/
+.DS_Store
+*.log
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Tests
+tests/
+coverage/
+*.spec.js
+*.test.js
+
