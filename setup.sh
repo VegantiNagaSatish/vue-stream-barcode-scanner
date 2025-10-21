@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Vue Stream Barcode Scanner - Setup Script
 # This script helps you quickly set up and test the project
 
