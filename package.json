@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gdncomm-veganti-satish/vue-stream-barcode-scanner.git"
+    "url": "https://github.com/VegantiNagaSatish/vue-stream-barcode-scanner.git"
   },
   "bugs": {
-    "url": "https://github.com/gdncomm-veganti-satish/vue-stream-barcode-scanner/issues"
+    "url": "https://github.com/VegantiNagaSatish/vue-stream-barcode-scanner/issues"
   },
-  "homepage": "https://github.com/gdncomm-veganti-satish/vue-stream-barcode-scanner#readme",
+  "homepage": "https://github.com/VegantiNagaSatish/vue-stream-barcode-scanner#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
